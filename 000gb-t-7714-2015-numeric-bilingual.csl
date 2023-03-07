@@ -17,7 +17,7 @@
     <category citation-format="numeric"/>
     <category field="generic-base"/>
     <summary>按照语言显示“等”或“et al.”</summary>
-    <updated>2022-12-02T17:49:28+08:00</updated>
+    <updated>2023-03-07T22:47:55+08:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="zh-CN">
@@ -51,9 +51,7 @@
   <!-- 主要责任者 -->
   <macro name="author">
     <names variable="author">
-      <name>
-        <name-part name="family" text-case="uppercase"/>
-      </name>
+      <name/>
       <substitute>
         <names variable="composer"/>
         <names variable="illustrator"/>
